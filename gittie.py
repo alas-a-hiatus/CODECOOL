@@ -1,4 +1,1 @@
-def introduce():
-    print("Elo")
-
-introduce()
+print("Hello, I'm Gittie!")
